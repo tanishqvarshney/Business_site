@@ -1,2 +1,1 @@
-# Business_site
-Landing Page for a business site
+Welcome to the landing page for our business site.
